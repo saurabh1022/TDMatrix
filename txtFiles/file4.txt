@@ -1,0 +1,3 @@
+Using these architectures and algorithms,
+DNNs are even able to beat humans in image classification. Automation of
+modelling process is yet another revolutionary development in the field of AI.
